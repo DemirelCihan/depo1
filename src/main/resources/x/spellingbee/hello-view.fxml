@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="466.0" prefWidth="674.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="107.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+      <Polyline fill="CHARTREUSE" points="239.0, 438.3999938964844, 603.4000244140625, 204.39999389648438, 0.0, 60.0, 438.3999938964844, 60.00000762939453" strokeType="INSIDE" />
+   </children>
+</Pane>
